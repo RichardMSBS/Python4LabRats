@@ -17,8 +17,9 @@ Yes, brave little lab rat.
 
 Is for you.
 
-## Interactive learning modules (Jupyter-style notebooks; open in a new browser tab)
-[[Module 1]](https://colab.research.google.com/github/RichardMSBS/Python4LabRats/blob/main/A_Lab_Rat's_introduction_to_Sanger_assembly_(in_Python).ipynb): Introduction and Paired-end Sanger gene assembly
+## Interactive learning modules 
+(Jupyter-style notebooks; each opens in a new browser tab)
+- [[Module 1]](https://colab.research.google.com/github/RichardMSBS/Python4LabRats/blob/main/A_Lab_Rat's_introduction_to_Sanger_assembly_(in_Python).ipynb): Introduction and Paired-end Sanger gene assembly
 
 
 
