@@ -1,6 +1,6 @@
 # Python4LabRats
 ## Why a lab rat shouldn't be afraid of Python
-A (modern, well-designed) graphical user interface (GUI) feels natural and intuitive to use. Such programs do exist for Sanger assembly, but they come with drawbacks. Some of them include...
+A (modern, well-designed) graphical user interface (GUI) feels natural and intuitive to use. Such programs do exist for basic bioinformatics, but they tend to come with drawbacks. Some of these include...
 - They may not be available for Windows, Mac, *and* Linux.
 - They may not be open-source.
 - They may not be easily scaled up for large projects.
